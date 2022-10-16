@@ -1,0 +1,23 @@
+.grand-parent {
+  background-color: lightpink;
+  width: 300px;
+  height: 150px;
+  overflow: auto;
+}
+
+.parent {
+  left: 0;
+  right: 0;
+  background-color: salmon;
+  width: 1000px;
+}
+
+.rdtOpen {
+  background-color: lime;
+  position: relative;
+}
+
+.rdtPicker {
+  position: absolute;
+  background-color: purple;
+}
